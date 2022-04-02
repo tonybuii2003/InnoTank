@@ -22,10 +22,10 @@
     <img src="img/icon.png" alt="Logo" width="217" height="258">
  </p>
 
-<h3 align="center">Procrastination Killer Bot - Pono</h3>
+<h3 align="center">NAME</h3>
 
   <p align="center">
-    A habit can start with Pono
+    Slogan
     <!--<br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>-->
     <br />
