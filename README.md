@@ -33,7 +33,7 @@
     <br />
 <!--     <a href="https://drive.google.com/uc?export=download&id=1rY_OOOybkd8zDA7SwHek3I6_Cy2AyheE">Download Demo</a>
     · -->
-    <a href="https://github.com/tonybuii2003/NONAME/issues">Report Bug</a>
+    <a href="https://github.com/ROBOTECH2022-Software-Track/InnoTank/issues">Report Bug</a>
     <!--·
     <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
     -->
@@ -138,7 +138,7 @@ To create an habit tracking account, simple tag my bot () with "%a" before it. <
   - [x] Step 3.2
   - [ ] Step 3.3
 
-See the [open issues](https://github.com/tonybuii2003/Twitter/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/ROBOTECH2022-Software-Track/InnoTank/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -169,16 +169,16 @@ _simple_twit.py was created by [Professor Kane](https://www.cs.stonybrook.edu/pe
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/tonybuii2003/NONAME.svg?style=for-the-badge
-[contributors-url]: https://github.com/tonybuii2003/NONAME/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/tonybuii2003/NONAME.svg?style=for-the-badge
-[forks-url]: https://github.com/tonybuii2003/NONAME/network/members
-[stars-shield]: https://img.shields.io/github/stars/tonybuii2003/NONAME.svg?style=for-the-badge
-[stars-url]: https://github.com/tonybuii2003/NONAME/stargazers
-[issues-shield]: https://img.shields.io/github/issues/tonybuii2003/NONAME.svg?style=for-the-badge
-[issues-url]: https://github.com/tonybuii2003/NONAME/issues
-[license-shield]: https://img.shields.io/github/license/tonybuii2003/NONAME.svg?style=for-the-badge
-[license-url]: https://github.com/tonybuii2003/NONAME/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/ROBOTECH2022-Software-Track/InnoTank.svg?style=for-the-badge
+[contributors-url]: https://github.com/ROBOTECH2022-Software-Track/InnoTank/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ROBOTECH2022-Software-Track/InnoTank.svg?style=for-the-badge
+[forks-url]: https://github.com/ROBOTECH2022-Software-Track/InnoTank/network/members
+[stars-shield]: https://img.shields.io/github/stars/ROBOTECH2022-Software-Track/InnoTank.svg?style=for-the-badge
+[stars-url]: https://github.com/ROBOTECH2022-Software-Track/InnoTankstargazers
+[issues-shield]: https://img.shields.io/github/issues/ROBOTECH2022-Software-Track/InnoTank.svg?style=for-the-badge
+[issues-url]: https://github.com/ROBOTECH2022-Software-Track/InnoTank/issues
+[license-shield]: https://img.shields.io/github/license/ROBOTECH2022-Software-Track/InnoTank.svg?style=for-the-badge
+[license-url]: https://github.com/ROBOTECH2022-Software-Track/InnoTank/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tonybui2003
 [product-screenshot]: img/screenshot1.png
