@@ -20,10 +20,10 @@
 <br />
 <div align="center">
   <p>
-    <img src="img/icon.png" alt="Logo" width="217" height="258">
+    <img src="readme_img/logo.png" alt="Logo" width="217" height="258">
  </p>
 
-<h3 align="center">NAME</h3>
+<h3 align="center">InnoTank</h3>
 
   <p align="center">
     Slogan
