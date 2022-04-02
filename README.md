@@ -82,7 +82,7 @@ This project have no name.
 
 - [Tweepy](https://www.tweepy.org/)
 - [Python](https://www.python.org/)
-- [Pixela](https://pixe.la/)
+- [OpenCV](https://opencv.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
