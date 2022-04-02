@@ -8,6 +8,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -32,7 +33,7 @@
     <br />
 <!--     <a href="https://drive.google.com/uc?export=download&id=1rY_OOOybkd8zDA7SwHek3I6_Cy2AyheE">Download Demo</a>
     · -->
-    <a href="https://github.com/tonybuii2003/TwitterBot/issues">Report Bug</a>
+    <a href="https://github.com/tonybuii2003/NONAME/issues">Report Bug</a>
     <!--·
     <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
     -->
@@ -65,12 +66,11 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
-This is the final project for my IAE 101 course I took at Stony Brook University in Fall 2021. It is an open source creative project base on a Twitter bot.
-The idea start from my personal issue with tracking habit, so I came up with a habit tracking bot with a hope to help me and others become more organized. 
+
+This project have no name.
 
 [![Product Name Screen Shot][product-screenshot]](img/screenshot.png)
 
@@ -79,23 +79,26 @@ The idea start from my personal issue with tracking habit, so I came up with a h
 ### Built With
 
 <!--* [Next.js](https://nextjs.org/) -->
-* [Tweepy](https://www.tweepy.org/)
-* [Python](https://www.python.org/)
-* [Pixela](https://pixe.la/)
+
+- [Tweepy](https://www.tweepy.org/)
+- [Python](https://www.python.org/)
+- [Pixela](https://pixe.la/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
+
 ## Getting Started
+
 ### Prerequisites
 
 In order to use the bot, you need to have a twitter account, create one [here](https://twitter.com)
 
 ### Installation
-To create an habit tracking account, simple tag my bot () with "%a" before it. <br /> 
+
+To create an habit tracking account, simple tag my bot () with "%a" before it. <br />
 <img src="img/create.png" alt="Create an account" width="400" height="400">
+
 <!--
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -114,8 +117,8 @@ To create an habit tracking account, simple tag my bot () with "%a" before it. <
 <p align="right">(<a href="#top">back to top</a>)</p>
 -->
 
-
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 <img src="img/graph.png" alt="Create an account" width="400" height="400">
@@ -124,24 +127,23 @@ To create an habit tracking account, simple tag my bot () with "%a" before it. <
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ROADMAP -->
+
 ## Roadmap
 
-- [x] User can create an account.
-- [x] User can delete the account
-- [x] User can create a graph to keep track of their process
-    - [x] Update a pixel to the graph
-    - [x] Tweet the graph 
-    - [ ] Tweet a pixel
+- [x] Step 1
+- [x] Step 2
+- [x] Step 3
+  - [x] Step 3.1
+  - [x] Step 3.2
+  - [ ] Step 3.3
 
 See the [open issues](https://github.com/tonybuii2003/Twitter/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
@@ -149,37 +151,34 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
+
 ## Contact
 
 Phi Long Bui - [Linkedin](https://www.linkedin.com/in/tonybui2003) - longphibui1993@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
-*simple_twit.py was created by [Professor Kane](https://www.cs.stonybrook.edu/people/faculty/ChristopherKane)*
 
-
+_simple_twit.py was created by [Professor Kane](https://www.cs.stonybrook.edu/people/faculty/ChristopherKane)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/tonybuii2003/TwitterBot.svg?style=for-the-badge
-[contributors-url]: https://github.com/tonybuii2003/TwitterBot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/tonybuii2003/TwitterBot.svg?style=for-the-badge
-[forks-url]: https://github.com/tonybuii2003/TwitterBot/network/members
-[stars-shield]: https://img.shields.io/github/stars/tonybuii2003/TwitterBot.svg?style=for-the-badge
-[stars-url]: https://github.com/tonybuii2003/TwitterBot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/tonybuii2003/TwitterBot.svg?style=for-the-badge
-[issues-url]: https://github.com/tonybuii2003/TwitterBot/issues
-[license-shield]: https://img.shields.io/github/license/tonybuii2003/TwitterBot.svg?style=for-the-badge
-[license-url]: https://github.com/tonybuii2003/TwitterBot/blob/main/LICENSE
+
+[contributors-shield]: https://img.shields.io/github/contributors/tonybuii2003/NONAME.svg?style=for-the-badge
+[contributors-url]: https://github.com/tonybuii2003/NONAME/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/tonybuii2003/NONAME.svg?style=for-the-badge
+[forks-url]: https://github.com/tonybuii2003/NONAME/network/members
+[stars-shield]: https://img.shields.io/github/stars/tonybuii2003/NONAME.svg?style=for-the-badge
+[stars-url]: https://github.com/tonybuii2003/NONAME/stargazers
+[issues-shield]: https://img.shields.io/github/issues/tonybuii2003/NONAME.svg?style=for-the-badge
+[issues-url]: https://github.com/tonybuii2003/NONAME/issues
+[license-shield]: https://img.shields.io/github/license/tonybuii2003/NONAME.svg?style=for-the-badge
+[license-url]: https://github.com/tonybuii2003/NONAME/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tonybui2003
 [product-screenshot]: img/screenshot1.png
-
