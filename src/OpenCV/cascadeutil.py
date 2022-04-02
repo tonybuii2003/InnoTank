@@ -1,11 +1,10 @@
 import os
 import json
-import re
 
 
 def generate_negative_file():
     with open('negativeTXT', 'w') as f:
-        for name in os.listdir('negative'):
+        for name in os.listdir('/Volumes/GoogleDrive/My Drive/SBU/CS_project/RoboTech/project/src/negative'):
             print(type(name))
             f.write('negative/' + name + '\n')
     print('Done')
@@ -13,10 +12,10 @@ def generate_negative_file():
 
 def generate_positive_file():
     with open('positiveTXT', 'w') as f:
-        for file in os.listdir('pos'):
+        for file in os.listdir('/Volumes/GoogleDrive/My Drive/SBU/CS_project/RoboTech/project/src/pos'):
             if file == 'annotations.json':
                 f = open(
-                    '/Volumes/GoogleDrive/My Drive/SBU/CS_project/ROBOTECH/Test/pos/'+file, "r")
+                    '/Volumes/GoogleDrive/My Drive/SBU/CS_project/RoboTech/project/src/pos/'+file, "r")
                 data = json.load(f)
         for i in data:
             posStr = ''
@@ -30,7 +29,7 @@ def generate_positive_file():
                             for point in j[k]:
                                 posStr += f'{str(j[k][point])} '
             print(posStr[0:-1])
-            f.write('positive/' + str(posStr[0:-1]) + '\n')
+            #f.write('positive/' + str(posStr[0:-1]) + '\n')
 
 
 generate_negative_file()
