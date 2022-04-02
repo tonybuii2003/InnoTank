@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <p>
-    <img src="readme_img/logo.png" alt="Logo" width="217" height="258">
+    <img src="readme_img/logo.png" alt="Logo" width="337" height="331">
  </p>
 
 <h3 align="center">InnoTank</h3>
