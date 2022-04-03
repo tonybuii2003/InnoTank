@@ -140,7 +140,8 @@ To create an habit tracking account, simple tag my bot () with "%a" before it. <
 <!-- USAGE EXAMPLES -->
 
 ## Usage
-
+#### Design: 
+<br />
 <img src="readme_img/design.png" alt="Design" width="400" height="400">
 <img src="img/post.png" alt="Create an account" width="400" height="400">
 <img src="img/delete.png" alt="Create an account" width="400" height="400">
