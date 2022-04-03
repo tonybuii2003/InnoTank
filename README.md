@@ -147,8 +147,11 @@ To create an habit tracking account, simple tag my bot () with "%a" before it. <
 <br/>
 **How the InnoTank Detects a Water Bottle Lablel:**
 <br/>
+<br/>
 <img src="readme_img/pre-train.png" alt="Pretrain" width="400" height="400">
-
+<br/>
+<br/>
+**Water Bottle Recognition!**
 <img src="readme_img/img_detect.png" alt="Create an account">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
