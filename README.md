@@ -146,7 +146,7 @@ To create an habit tracking account, simple tag my bot () with "%a" before it. <
 
 <!-- ROADMAP -->
 
-## Roadmap
+## What's Ahead
 
 - [ ] 1: Real-time recognition
 - [ ] 2: Recognize different objects (but will be rejected)
