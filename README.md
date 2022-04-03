@@ -26,7 +26,7 @@
 <h3 align="center">InnoTank</h3>
 
   <p align="center">
-    Slogan
+    Savin-novation for the Planet
     <!--<br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>-->
     <br />
@@ -76,6 +76,7 @@ InnoTank is made to promote sustainability through fun.
 
 The problem we wanted to tackle is the lack of recycling.
 Recycling resources is one key aspect of sustainability.
+Water bottles are not recyclable when there are labels on it or contents inside.
 
 So, we made a fun, smart garbage bin that promotes sustainability through the fact that
 people simply love chucking things into the garbage bin, especially water bottles.
