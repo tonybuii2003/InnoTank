@@ -81,7 +81,7 @@ Water bottles are not recyclable when there are labels on it or contents inside.
 So, we made a fun, smart garbage bin that promotes sustainability through the fact that<br/>
 people simply love chucking things into the garbage bin, especially water bottles.
 
-Throw a water bottle at it, and it will suck it in.<br/>
+Throw a water bottle at it, and it will succ it in.<br/>
 Then, it will separate the content, label, and the bottle itself and stores them.
 
 Simple, fun, and convenient.
@@ -166,7 +166,7 @@ To create an habit tracking account, simple tag my bot () with "%a" before it. <
 - [ ] 1: Real-time recognition
 - [ ] 2: Recognize different objects (but will be rejected)
 - [ ] 3: Succ the bottle inside the InnoTank
-- [ ] 4: If the bottle is upside down, flip
+- [ ] 4: Adjust the bottle's orientation
 - [ ] 5: Scan for label once the bottle is inside
 - [ ] 6: Peel off the label if label is present
 - [ ] 7: Label goes to a separate bin
