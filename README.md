@@ -184,7 +184,7 @@ JK Kim - [LinkedIn](https://www.linkedin.com/in/jkkim2002)
 
 ## Acknowledgments
 
-Thank you to GT IEEE for hosting RoboTech 2022!
+Thank you to GT IEEE for hosting RoboTech 2022!\n
 Thank you to all the sponsors and GT organizations for mentorships and workshops!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -203,4 +203,4 @@ Thank you to all the sponsors and GT organizations for mentorships and workshops
 [license-url]: https://github.com/ROBOTECH2022-Software-Track/InnoTank/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tonybui2003
-[product-screenshot]: img/screenshot1.png
+[product-screenshot]: readme_img/img_detect.png
