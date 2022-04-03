@@ -184,7 +184,7 @@ JK Kim - [LinkedIn](https://www.linkedin.com/in/jkkim2002)
 
 ## Acknowledgments
 
-Thank you to GT IEEE for hosting RoboTech 2022!\n
+Thank you to GT IEEE for hosting RoboTech 2022!<br />
 Thank you to all the sponsors and GT organizations for mentorships and workshops!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
