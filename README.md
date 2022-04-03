@@ -143,7 +143,9 @@ To create an habit tracking account, simple tag my bot () with "%a" before it. <
 #### Design: 
 <br />
 <img src="readme_img/design.png" alt="Design" width="400" height="400">
-<img src="img/post.png" alt="Create an account" width="400" height="400">
+#### An Idea For a Pre-train Model:
+<img src="readme_img/pre-train.png" alt="Create an account" width="400" height="400">
+<br />
 <img src="img/delete.png" alt="Create an account" width="400" height="400">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
