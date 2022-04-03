@@ -184,8 +184,8 @@ JK Kim - [LinkedIn](https://www.linkedin.com/in/jkkim2002)
 
 ## Acknowledgments
 
-_simple_twit.py was created by [Professor Kane](https://www.cs.stonybrook.edu/people/faculty/ChristopherKane)_
-
+Thank you to GT IEEE for hosting RoboTech 2022!
+Thank you to all the sponsors and GT organizations for mentorships and workshops!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
