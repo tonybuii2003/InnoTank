@@ -145,7 +145,7 @@ To create an habit tracking account, simple tag my bot () with "%a" before it. <
 <img src="readme_img/design.png" alt="Design" width="400" height="400">
 <br/>
 <br/>
-**An Idea For a Pre-train Model:**
+**How the InnoTank Detects a Water Bottle Lablel:**
 <br/>
 <img src="readme_img/pre-train.png" alt="Pretrain" width="400" height="400">
 
