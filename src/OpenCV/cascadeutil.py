@@ -7,19 +7,21 @@ def generate_negative_file():
         for name in os.listdir('/Volumes/GoogleDrive/My Drive/SBU/CS_project/RoboTech/project/src/negative'):
             print(type(name))
             f.write('negative/' + name + '\n')
-    print('Done')
+    print('Done writing negativeTXT')
 
 
 def generate_positive_file():
     with open('positiveTXT', 'w') as f:
         for file in os.listdir('/Volumes/GoogleDrive/My Drive/SBU/CS_project/RoboTech/project/src/pos'):
             if file == 'annotations.json':
-                f = open(
+                json_f = open(
                     '/Volumes/GoogleDrive/My Drive/SBU/CS_project/RoboTech/project/src/pos/'+file, "r")
-                data = json.load(f)
+                data = json.load(json_f)
         for i in data:
             posStr = ''
+            loc = ""
             if i != '___sa_version___':
+                loc = 'positive/'
                 posStr += f'{i} '
                 for j in data[i]['instances']:
                     for k in j:
@@ -28,8 +30,8 @@ def generate_positive_file():
                         if k == "points":
                             for point in j[k]:
                                 posStr += f'{str(j[k][point])} '
-            print(posStr[0:-1])
-            #f.write('positive/' + str(posStr[0:-1]) + '\n')
+                f.write(loc + str(posStr[0:-1]) + '\n')
+        print(f'Done writing positiveTXT')
 
 
 generate_negative_file()
