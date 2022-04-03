@@ -70,7 +70,21 @@
 
 ## About The Project
 
-This project have no name.
+InnoTech is proud to present our first product, InnoTank!
+
+InnoTank is made to promote sustainability through fun.
+
+The problem we wanted to tackle is the lack of recycling.
+Recycling resources is one key aspect of sustainability.
+
+So, we made a fun, smart garbage bin that promotes sustainability through the fact that
+people simply love chucking things into the garbage bin, especially water bottles.
+
+Throw a water bottle at it, and it will suck it in.
+Then, it will separate the content, label, and the bottle itself and stores them.
+
+Simple, fun, and convenient.
+
 
 [![Product Name Screen Shot][product-screenshot]](img/screenshot.png)
 
@@ -80,9 +94,7 @@ This project have no name.
 
 <!--* [Next.js](https://nextjs.org/) -->
 
-- [Tweepy](https://www.tweepy.org/)
 - [Python](https://www.python.org/)
-- [OpenCV](https://opencv.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -131,12 +143,16 @@ To create an habit tracking account, simple tag my bot () with "%a" before it. <
 
 ## Roadmap
 
-- [x] Step 1
-- [x] Step 2
-- [x] Step 3
-  - [x] Step 3.1
-  - [x] Step 3.2
-  - [ ] Step 3.3
+- [ ] 1: Real-time recognition
+- [ ] 2: Recognize different objects (but will be rejected)
+- [ ] 3: Succ the bottle inside the InnoTank
+- [ ] 4: If the bottle is upside down, flip
+- [ ] 5: Scan for label once the bottle is inside
+- [ ] 6: Peel off the label if label is present
+- [ ] 7: Label goes to a separate bin
+- [ ] 8: Empty content to another container: if content is present
+- [ ] 9: Squish bottle for space optimization
+- [ ] 10: Store the squished bottle in the main container
 
 See the [open issues](https://github.com/ROBOTECH2022-Software-Track/InnoTank/issues) for a full list of proposed features (and known issues).
 
@@ -155,6 +171,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Phi Long Bui - [Linkedin](https://www.linkedin.com/in/tonybui2003) - longphibui1993@gmail.com
+JK Kim - [LinkedIn](https://www.linkedin.com/in/jkkim2002)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
