@@ -149,7 +149,7 @@ To create an habit tracking account, simple tag my bot () with "%a" before it. <
 <br/>
 <img src="readme_img/pre-train.png" alt="Pretrain" width="400" height="400">
 
-<img src="readme_img/img_detect.png" alt="Create an account" width="400" height="400">
+<img src="readme_img/img_detect.png" alt="Create an account">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -184,9 +184,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Phi Long Bui - [Linkedin](https://www.linkedin.com/in/tonybui2003) - longphibui1993@gmail.com<br />
+Phi Long Bui - [LinkedIn](https://www.linkedin.com/in/tonybui2003) - longphibui1993@gmail.com<br />
 JK Kim - [LinkedIn](https://www.linkedin.com/in/jkkim2002)<br />
-Jeremhy Cesar
+Jeremhy Cesar - [LinkedIn](https://www.linkedin.com/in/jeremhy-cesar-a14bb2174/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
