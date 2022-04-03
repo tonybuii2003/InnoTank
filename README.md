@@ -74,14 +74,14 @@ InnoTech is proud to present our first product, InnoTank!
 
 InnoTank is made to promote sustainability through fun.
 
-The problem we wanted to tackle is the lack of recycling.
-Recycling resources is one key aspect of sustainability.
+The problem we wanted to tackle is the lack of recycling.<br/>
+Recycling resources is one key aspect of sustainability.<br/>
 Water bottles are not recyclable when there are labels on it or contents inside.
 
-So, we made a fun, smart garbage bin that promotes sustainability through the fact that
+So, we made a fun, smart garbage bin that promotes sustainability through the fact that<br/>
 people simply love chucking things into the garbage bin, especially water bottles.
 
-Throw a water bottle at it, and it will suck it in.
+Throw a water bottle at it, and it will suck it in.<br/>
 Then, it will separate the content, label, and the bottle itself and stores them.
 
 Simple, fun, and convenient.
