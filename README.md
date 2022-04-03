@@ -50,13 +50,13 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
+<!--     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
-    </li>
+    </li> -->
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <!--<li><a href="#contributing">Contributing</a></li>-->
@@ -100,6 +100,7 @@ Simple, fun, and convenient.
 - [Faster R-CNN](https://arxiv.org/abs/1506.01497)
 - [Google Colab](https://colab.research.google.com/)
 - [Recycling Dataset](http://web.cecs.pdx.edu/~singh/rcyc-web/index.html)
+- Designed with [Google SketchUp](https://www.sketchup.com/?utm_source=google&utm_medium=paid_search&utm_campaign=&gclid=CjwKCAjwi6WSBhA-EiwA6Niok9Q9mxreO3QqAruaAIt4xhhKilbi__Pu8QsZaBJzzv8ungzH1-aBvhoCbCIQAvD_BwE)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -138,7 +139,7 @@ To create an habit tracking account, simple tag my bot () with "%a" before it. <
 
 ## Usage
 
-<img src="img/graph.png" alt="Create an account" width="400" height="400">
+<img src="readme_img/design.png" alt="Design" width="400" height="400">
 <img src="img/post.png" alt="Create an account" width="400" height="400">
 <img src="img/delete.png" alt="Create an account" width="400" height="400">
 
