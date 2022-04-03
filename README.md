@@ -140,6 +140,9 @@ To create an habit tracking account, simple tag my bot () with "%a" before it. <
 <!-- USAGE EXAMPLES -->
 
 ## Usage
+[YouTube Video](https://youtu.be/Gd6wWYjIP84)
+<br/>
+<br/>
 **Design:** 
 <br/>
 <br/>
