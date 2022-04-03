@@ -95,8 +95,10 @@ Simple, fun, and convenient.
 <!--* [Next.js](https://nextjs.org/) -->
 
 - [Python](https://www.python.org/)
+- [PyTorch](https://pytorch.org/)
 - [Faster R-CNN](https://arxiv.org/abs/1506.01497)
 - [Google Colab](https://colab.research.google.com/)
+- [Recycling Dataset](http://web.cecs.pdx.edu/~singh/rcyc-web/index.html)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
