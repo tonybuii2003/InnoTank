@@ -177,6 +177,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Phi Long Bui - [Linkedin](https://www.linkedin.com/in/tonybui2003) - longphibui1993@gmail.com<br />
 JK Kim - [LinkedIn](https://www.linkedin.com/in/jkkim2002)
+Jeremhy Cesar
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
