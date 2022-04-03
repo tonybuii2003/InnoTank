@@ -152,7 +152,7 @@ To create an habit tracking account, simple tag my bot () with "%a" before it. <
 <img src="readme_img/pre-train.png" alt="Pretrain" width="400" height="400">
 <br/>
 <br/>
-**Water Bottle Recognition!**
+**Water Bottle Recognition!:**
 <br/>
 <br/>
 <img src="readme_img/img_detect.png" alt="Create an account">
