@@ -141,7 +141,8 @@ To create an habit tracking account, simple tag my bot () with "%a" before it. <
 
 ## Usage
 **Design:** 
-<br />
+<br/>
+<br/>
 <img src="readme_img/design.png" alt="Design" width="400" height="400">
 <br/>
 <br/>
@@ -152,6 +153,8 @@ To create an habit tracking account, simple tag my bot () with "%a" before it. <
 <br/>
 <br/>
 **Water Bottle Recognition!**
+<br/>
+<br/>
 <img src="readme_img/img_detect.png" alt="Create an account">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
