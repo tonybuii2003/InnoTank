@@ -185,8 +185,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Phi Long Bui - [LinkedIn](https://www.linkedin.com/in/tonybui2003) - longphibui1993@gmail.com<br />
-JK Kim - [LinkedIn](https://www.linkedin.com/in/jkkim2002) - jeremhy.cesar31@gmail.com<br />
-Jeremhy Cesar - [LinkedIn](https://www.linkedin.com/in/jeremhy-cesar-a14bb2174/)
+JK Kim - [LinkedIn](https://www.linkedin.com/in/jkkim2002) - ottersoodal@gmail.com<br />
+Jeremhy Cesar - [LinkedIn](https://www.linkedin.com/in/jeremhy-cesar-a14bb2174/) - jeremhy.cesar31@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
